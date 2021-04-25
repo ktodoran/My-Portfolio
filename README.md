@@ -5,7 +5,7 @@ A Professional Portofolio About Me, Kyle Todoran!
     
 ## Deployment
 
-Go to: "ktodoran.github.io" to view my portfolio.
+[Let's Go to My Portfolio](https://ktodoran.github.io) to view my portfolio.
 
 ## Usage
 
