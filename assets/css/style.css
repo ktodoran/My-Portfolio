@@ -42,3 +42,37 @@ body {
     color: #BBCDE5;
 }
 
+.projects img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+    border-radius: 50%;
+  }
+
+  .container img {
+    display: block;
+    margin-top: 10%;
+    margin-left: 50%;
+    margin-right: 50%;
+    width: auto;
+  }
+
+  .music {
+      margin-top: 10%;
+  }
+
+  .contact {
+      background-color: teal;
+      color: tomato;
+      font-family: fantasy;
+      display:flex;
+      align-items: center;
+      justify-content: space-around;
+  }
+  
+  .contact a:link {
+      color: tomato;
+      background-color: transparent;
+      text-decoration: none;
+  }
